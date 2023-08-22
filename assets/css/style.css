@@ -1094,6 +1094,12 @@ section .container {
   background-color: #18d26e;
 }
 
+.glightbox-clean .gslide-title {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #3106ff;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
